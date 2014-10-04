@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1305372298 source:d:\gitrepo\cpppractice\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1305372298 d:\gitrepo\cpppractice\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1305372298 source:d:\gitrepo\cpppractice\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305372298 d:\gitrepo\cpppractice\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305372298 source:d:\gitrepo\cpppractice\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305372298 source:d:\gitrepo\cpppractice\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1411204084 source:d:\gitrepo\cpppractice\tinyxml\main.cpp
+	<iostream>
+	"tinyxml.h"
+

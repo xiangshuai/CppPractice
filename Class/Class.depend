@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1411115399 source:d:\src\class\main.cpp
+	<iostream>
+
+1411198635 source:d:\src\class\constructor.cpp
+	<iostream>
+
+1411202309 source:d:\gitrepo\cpppractice\class\static.cpp
+	<iostream>
+
+1411447911 source:d:\repo\cpppractice\class\inheritance.cpp
+	<iostream>
+
+1411447362 source:d:\repo\cpppractice\class\static.cpp
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1412412741 source:d:\gitrepo\cpppractice\alg\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1412421437 source:d:\gitrepo\cpppractice\alg\maxk.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cfloat>
+

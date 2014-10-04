@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1411114354 source:d:\src\multithreading\argsthreads.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<pthread.h>
+
+1411111033 source:d:\src\multithreading\main.cpp
+	<iostream>
+	<cstdlib>
+	<pthread.h>
+

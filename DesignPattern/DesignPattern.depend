@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1411611016 source:d:\gitrepo\cpppractice\designpattern\main.cpp
+	<iostream>
+	"Singleton.h"
+
+1411610859 source:d:\gitrepo\cpppractice\designpattern\src\singleton.cpp
+	"Singleton.h"
+
+1411610899 d:\gitrepo\cpppractice\designpattern\include\singleton.h
+
