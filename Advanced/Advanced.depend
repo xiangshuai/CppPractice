@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1385316878 source:d:\gitrepo\cpppractice\advanced\main.cpp
+	<iostream>
+
+1412508236 source:d:\gitrepo\cpppractice\advanced\fileandstreams.cpp
+	<fstream>
+	<iostream>
+
+1412508666 source:d:\gitrepo\cpppractice\advanced\exceptiontest.cpp
+	<iostream>
+
