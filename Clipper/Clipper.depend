@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1390341652 source:d:\gitrepo\cpppractice\clipper\clipper.cpp
+	"clipper.hpp"
+	<cmath>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<cstring>
+	<cstdlib>
+	<ostream>
+	<functional>
+
+1390341666 d:\gitrepo\cpppractice\clipper\clipper.hpp
+	<vector>
+	<set>
+	<stdexcept>
+	<cstring>
+	<cstdlib>
+	<ostream>
+	<functional>
+
+1412948620 source:d:\gitrepo\cpppractice\clipper\clipper_console_demo.cpp
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<vector>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"clipper.hpp"
+
+1385316878 source:d:\gitrepo\cpppractice\clipper\main.cpp
+	<iostream>
+
+1412953829 source:d:\gitrepo\cpppractice\clipper\start.cpp
+	"clipper.hpp"
+	<vector>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+
+1361833345 d:\source\opencv2.44\opencv\build\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	<sstream>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1359500111 d:\source\opencv2.44\opencv\build\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+	"tegra_round.hpp"
+	"emmintrin.h"
+
+1360589132 d:\source\opencv2.44\opencv\build\include\opencv2\core\version.hpp
+
+1360589132 d:\source\opencv2.44\opencv\build\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<limits>
+
+1359328672 d:\source\opencv2.44\opencv\build\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1361487308 d:\source\opencv2.44\opencv\build\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1359328676 d:\source\opencv2.44\opencv\build\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1359328672 d:\source\opencv2.44\opencv\build\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+

@@ -2,14 +2,14 @@
 Drawing a Filled Polygon
 void fillPoly(Mat& img, const Point** pts, const int* npts, int ncontours, const Scalar& color, int lineType=8, int shift=0, Point offset=Point() )
 Parameters:
-img 每 Image.
-pts 每 Array of polygons where each polygon is represented as an array of points.
-npts 每 Array of polygon vertex counters.
-ncontours 每 Number of contours that bind the filled region.
-color 每 Polygon color.
-lineType 每 Type of the polygon boundaries. See the line() description.
-shift 每 Number of fractional bits in the vertex coordinates.
-offset 每 Optional offset of all points of the contours.
+img - Image.
+pts - Array of polygons where each polygon is represented as an array of points.
+npts - Array of polygon vertex counters.
+ncontours - Number of contours that bind the filled region.
+color - Polygon color.
+lineType - Type of the polygon boundaries. See the line() description.
+shift - Number of fractional bits in the vertex coordinates.
+offset - Optional offset of all points of the contours.
 The function fillPoly fills an area bounded by several polygonal contours. The function can fill complex areas, for example, areas with holes, contours with self-intersections (some of their parts), and so forth.
  */
 
