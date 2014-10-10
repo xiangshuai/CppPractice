@@ -7,7 +7,7 @@ using namespace std;
 class Point
 {
 public:
-    Point(float x, float y):x(x),y(y){}
+    Point(float x, float y):x(x),y(y) {}
 public:
     float x;
     float y;

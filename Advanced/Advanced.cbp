@@ -32,7 +32,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="Exceptiontest.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="FileAndStreams.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="MyException.cpp" />
+		<Unit filename="main.cpp">
+			<Option link="0" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />

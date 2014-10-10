@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="OpenCV" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/OpenCV" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="D:/source/OpenCV2.44/opencv/build/include" />
+					<Add directory="D:/source/OpenCV2.44/opencv/build/include/opencv" />
+					<Add directory="D:/source/OpenCV2.44/opencv/build/include/opencv2" />
+				</Compiler>
+				<Linker>
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_videostab244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_stitching244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libcv2.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_gpu244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_legacy244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_photo244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_nonfree244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_contrib244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_objdetect244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_video244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_ml244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_calib3d244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_features2d244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_highgui244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_flann244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_imgproc244.dll.a" />
+					<Add library="..\..\..\source\OpenCV2.44\opencv\build\x86\mingw\lib\libopencv_core244.dll.a" />
+					<Add directory="D:/source/OpenCV2.44/opencv/build/x86/mingw/lib" />
+					<Add directory="D:/source/OpenCV2.44/opencv/build/x86/mingw/bin" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/OpenCV" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Readme.md">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="drawCircle.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="drawEllipse.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="drawFilledPolygon.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="drawLine.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="drawPolygon.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="drawRectangle.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="textInImage.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
