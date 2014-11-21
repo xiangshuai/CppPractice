@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="drawFilledPolygon.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="261" zoom_1="0" zoom_2="0">
+	<File name="sift.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="937" topLine="3" />
+			<Cursor1 position="379" topLine="3" />
 		</Cursor>
 	</File>
-	<File name="main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="textInImage.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="24" topLine="0" />
+			<Cursor1 position="1164" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="drawPolygon.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="drawFilledPolygon.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="261" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1259" topLine="53" />
+			<Cursor1 position="2106" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="drawLine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="198" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="drawEllipse.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -26,9 +31,14 @@
 			<Cursor1 position="653" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="drawLine.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="198" topLine="0" />
+			<Cursor1 position="24" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="drawPolygon.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="701" topLine="53" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

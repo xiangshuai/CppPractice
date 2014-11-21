@@ -36,6 +36,7 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="maxProductSub.cpp" />
+		<Unit filename="reverseWords.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

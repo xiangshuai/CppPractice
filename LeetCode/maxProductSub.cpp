@@ -113,7 +113,7 @@ pair<int, int> maxProduct(int A[], int n)
             maxPt = minCurrent;
             minPt = maxCurrent;
         }
-        if(maxPt < A[i])
+        //if(maxPt < A[i])
     }
     return ret;
 }

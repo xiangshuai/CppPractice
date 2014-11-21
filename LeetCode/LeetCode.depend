@@ -2,3 +2,12 @@
 1385316878 source:d:\gitrepo\cpppractice\leetcode\main.cpp
 	<iostream>
 
+1413638637 source:d:\gitrepo\cpppractice\leetcode\maxproductsub.cpp
+	<iostream>
+	<climits>
+
+1413891797 source:d:\gitrepo\cpppractice\leetcode\reversewords.cpp
+	<iostream>
+	<string>
+	<vector>
+

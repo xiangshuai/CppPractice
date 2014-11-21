@@ -35,7 +35,8 @@
 1385316878 source:d:\gitrepo\cpppractice\clipper\main.cpp
 	<iostream>
 
-1412953829 source:d:\gitrepo\cpppractice\clipper\start.cpp
+1413538494 source:d:\gitrepo\cpppractice\clipper\start.cpp
+	<iostream>
 	"clipper.hpp"
 	<vector>
 	<opencv2/core/core.hpp>
@@ -94,4 +95,8 @@
 
 1359328672 d:\source\opencv2.44\opencv\build\include\opencv2\core\core_c.h
 	"opencv2/core/types_c.h"
+
+1413253021 source:d:\gitrepo\cpppractice\clipper\test.cpp
+	<vector>
+	"clipper.hpp"
 

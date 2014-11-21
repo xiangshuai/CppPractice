@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1413947702 source:d:\gitrepo\cpppractice\fileencryption\blowfish\blowfish.cpp
+	<cstring>
+	<exception>
+	"Blowfish.h"
+
+1001473860 d:\gitrepo\cpppractice\fileencryption\blowfish\blowfish.h
+
+1413947850 source:d:\gitrepo\cpppractice\fileencryption\blowfish\test.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"Blowfish.h"
+
+1414044402 source:d:\gitrepo\cpppractice\fileencryption\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+

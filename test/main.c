@@ -1,10 +1,28 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-int g_int_a = 1000;
-int main()
+#include <iostream>
+
+using namespace std;
+
+class Point
 {
-    printf("g_int_a is %d./n", g_int_a);
-    printf("g_int_a is %d./n", g_int_a);
-    return 0;
+private:
+    float x;
+    float y;
+public:
+    Point(float x=0, float y=0);
+
+};
+
+Point::Point(float x, float y)
+{
+    this.x = x;
+    this.y = y;
 }
+
+class Line
+{
+private:
+    Point start;
+    Point end;
+public:
+    Line()
+};

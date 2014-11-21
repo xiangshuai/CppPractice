@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413427218 source:d:\gitrepo\cpppractice\test\main.c
+
+1413429802 source:d:\gitrepo\cpppractice\test\test.cpp
+	<iostream>
+

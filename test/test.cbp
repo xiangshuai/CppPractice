@@ -33,6 +33,11 @@
 		</Compiler>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="reftest.cpp" />
+		<Unit filename="test.cpp">
+			<Option link="0" />
 		</Unit>
 		<Extensions>
 			<code_completion />
